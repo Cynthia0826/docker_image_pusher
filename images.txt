@@ -7,3 +7,4 @@ xhofe/alist:latest
 #我的镜像
 python:alpine3.19
 rancher/server:v1.6.23
+mongo:6.0.5
